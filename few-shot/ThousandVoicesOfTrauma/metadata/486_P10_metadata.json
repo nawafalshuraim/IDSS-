@@ -1,25 +1,3 @@
-{
-  "client_profile": {
-    "age": 42,
-    "age_group": "41-50",
-    "gender": "male",
-    "relationship_status": "In a relationship",
-    "occupation": "Professional",
-    "living_situation": "With partner",
-    "ethnicity": "Middle Eastern",
-    "co_occurring_condition": "Depression",
-    "exhibited_behaviors": [
-      "hypervigilance",
-      "dissociation",
-      "withdrawal"
-    ]
-  },
-  "therapist_profile": {
-    "age": 31,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "witnessing violence",
-    "session_topic": "hostage situation"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d09076372e89fa06aff5488d5dd54fe6fe90aed65691f36d4bcad18a853c3c3
+size 559

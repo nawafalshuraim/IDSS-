@@ -1,26 +1,3 @@
-{
-  "client_profile": {
-    "age": 56,
-    "age_group": "51-60",
-    "gender": "male",
-    "relationship_status": "Divorced",
-    "occupation": "Professional",
-    "living_situation": "Alone",
-    "ethnicity": "South East Asian",
-    "co_occurring_condition": "Depression",
-    "exhibited_behaviors": [
-      "avoidance",
-      "dissociation",
-      "aggression",
-      "self-blame"
-    ]
-  },
-  "therapist_profile": {
-    "age": 28,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "loss of a loved one",
-    "session_topic": "imprisonment"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:69334fbe756ed8eae3383715a6dbfbf6b71cdfa6fbb416418bf76d7f38fa36bd
+size 555

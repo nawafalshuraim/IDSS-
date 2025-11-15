@@ -1,25 +1,3 @@
-{
-  "client_profile": {
-    "age": 32,
-    "age_group": "31-40",
-    "gender": "male",
-    "relationship_status": "In a relationship",
-    "occupation": "Self-employed",
-    "living_situation": "Alone",
-    "ethnicity": "South Asian",
-    "co_occurring_condition": "None",
-    "exhibited_behaviors": [
-      "avoidance",
-      "self-blame",
-      "withdrawal"
-    ]
-  },
-  "therapist_profile": {
-    "age": 45,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "loss of a loved one",
-    "session_topic": "loss of a loved one"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d73ec518ead01d72ea8e711dff4783bd409a7ee5e8fe11cf504c40d6935ef223
+size 541

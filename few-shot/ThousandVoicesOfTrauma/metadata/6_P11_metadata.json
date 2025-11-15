@@ -1,25 +1,3 @@
-{
-  "client_profile": {
-    "age": 72,
-    "age_group": "71-80",
-    "gender": "female",
-    "relationship_status": "Divorced",
-    "occupation": "Retired",
-    "living_situation": "Alone",
-    "ethnicity": "Oceania",
-    "co_occurring_condition": "Depression",
-    "exhibited_behaviors": [
-      "avoidance",
-      "hypervigilance",
-      "withdrawal"
-    ]
-  },
-  "therapist_profile": {
-    "age": 41,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "natural disasters",
-    "session_topic": "refugee experiences"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4937b046474bca8e384c307f052e3ddbb5f1ee7aadcc3d33cd5a94ba921a5a40
+size 530

@@ -1,25 +1,3 @@
-{
-  "client_profile": {
-    "age": 58,
-    "age_group": "51-60",
-    "gender": "female",
-    "relationship_status": "Single",
-    "occupation": "Professional",
-    "living_situation": "Shared accommodation",
-    "ethnicity": "South East Asian",
-    "co_occurring_condition": "Substance Use Disorder",
-    "exhibited_behaviors": [
-      "substance abuse",
-      "avoidance",
-      "hypervigilance"
-    ]
-  },
-  "therapist_profile": {
-    "age": 48,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "accidents",
-    "session_topic": "airplane crash"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:05c23cfff54981745bddbb8940dfe6749d32b79b26f77375a4aa07219423d6f6
+size 561

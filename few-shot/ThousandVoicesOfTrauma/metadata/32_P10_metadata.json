@@ -1,27 +1,3 @@
-{
-  "client_profile": {
-    "age": 53,
-    "age_group": "51-60",
-    "gender": "male",
-    "relationship_status": "Widowed",
-    "occupation": "Professional",
-    "living_situation": "With family",
-    "ethnicity": "North American",
-    "co_occurring_condition": "Depression",
-    "exhibited_behaviors": [
-      "withdrawal",
-      "nightmares",
-      "avoidance",
-      "flashbacks",
-      "self-blame"
-    ]
-  },
-  "therapist_profile": {
-    "age": 48,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "sexual abuse",
-    "session_topic": "cult experiences"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7f733732fbebfc7d3d74cf1ca06147647ce98d28011b1a6c2ced30536a32070
+size 573

@@ -1,25 +1,3 @@
-{
-  "client_profile": {
-    "age": 69,
-    "age_group": "60-70",
-    "gender": "female",
-    "relationship_status": "Widowed",
-    "occupation": "Unemployed",
-    "living_situation": "Alone",
-    "ethnicity": "Oceania",
-    "co_occurring_condition": "Anxiety",
-    "exhibited_behaviors": [
-      "self-blame",
-      "hypervigilance",
-      "avoidance"
-    ]
-  },
-  "therapist_profile": {
-    "age": 58,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "childhood trauma",
-    "session_topic": "witnessing violence"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:467303d2cc352adf1439f0780076b2760e78b95ff7efd77f9978a048ea056259
+size 530

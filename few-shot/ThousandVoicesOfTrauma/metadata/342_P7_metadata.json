@@ -1,26 +1,3 @@
-{
-  "client_profile": {
-    "age": 56,
-    "age_group": "51-60",
-    "gender": "female",
-    "relationship_status": "Married",
-    "occupation": "Self-employed",
-    "living_situation": "With family",
-    "ethnicity": "European",
-    "co_occurring_condition": "Chronic Pain",
-    "exhibited_behaviors": [
-      "hypervigilance",
-      "avoidance",
-      "flashbacks",
-      "nightmares"
-    ]
-  },
-  "therapist_profile": {
-    "age": 65,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "accidents",
-    "session_topic": "animal attack"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfcbd6b3474faaf063098ae4735c2ee684c56ccd381feb594656bc22672a270c
+size 550

@@ -1,27 +1,3 @@
-{
-  "client_profile": {
-    "age": 44,
-    "age_group": "41-50",
-    "gender": "male",
-    "relationship_status": "Single",
-    "occupation": "Self-employed",
-    "living_situation": "With parents",
-    "ethnicity": "Latin American",
-    "co_occurring_condition": "Anxiety",
-    "exhibited_behaviors": [
-      "avoidance",
-      "anxiety",
-      "withdrawal",
-      "dissociation",
-      "hypervigilance"
-    ]
-  },
-  "therapist_profile": {
-    "age": 45,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "emotional abuse",
-    "session_topic": "cult experiences"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:20362e99c6014766eb4511902b29018d5fd95c783ee2ed4006578ce738a36f44
+size 577

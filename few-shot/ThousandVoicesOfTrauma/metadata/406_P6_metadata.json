@@ -1,25 +1,3 @@
-{
-  "client_profile": {
-    "age": 68,
-    "age_group": "60-70",
-    "gender": "female",
-    "relationship_status": "Single",
-    "occupation": "Unemployed",
-    "living_situation": "Alone",
-    "ethnicity": "North American",
-    "co_occurring_condition": "Substance Use Disorder",
-    "exhibited_behaviors": [
-      "avoidance",
-      "substance abuse",
-      "withdrawal"
-    ]
-  },
-  "therapist_profile": {
-    "age": 35,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "medical trauma",
-    "session_topic": "severe illness"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:72862874df5ae7aa0baed40e26e4748dd6afc32103c31e51d7a3efabd1668be7
+size 545

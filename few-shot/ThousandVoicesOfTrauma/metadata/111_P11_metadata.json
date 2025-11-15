@@ -1,26 +1,3 @@
-{
-  "client_profile": {
-    "age": 79,
-    "age_group": "71-80",
-    "gender": "female",
-    "relationship_status": "Divorced",
-    "occupation": "Part-time work",
-    "living_situation": "With family",
-    "ethnicity": "Latin American",
-    "co_occurring_condition": "Chronic Pain",
-    "exhibited_behaviors": [
-      "hypervigilance",
-      "flashbacks",
-      "avoidance",
-      "nightmares"
-    ]
-  },
-  "therapist_profile": {
-    "age": 59,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "accidents",
-    "session_topic": "airplane crash"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfdf1b6fcac8489511a95a40c3722dbc3e6075685cb69b2fcdb36527a48a95f9
+size 559

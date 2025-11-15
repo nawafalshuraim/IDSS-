@@ -1,26 +1,3 @@
-{
-  "client_profile": {
-    "age": 53,
-    "age_group": "51-60",
-    "gender": "male",
-    "relationship_status": "Married",
-    "occupation": "Self-employed",
-    "living_situation": "With partner",
-    "ethnicity": "Middle Eastern",
-    "co_occurring_condition": "None",
-    "exhibited_behaviors": [
-      "avoidance",
-      "hypervigilance",
-      "nightmares",
-      "anxiety"
-    ]
-  },
-  "therapist_profile": {
-    "age": 64,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "medical trauma",
-    "session_topic": "severe illness"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:13148d28833af4f2d60ede7153da97f66108ad28ef01760a98a0553af1e1e015
+size 552

@@ -1,27 +1,3 @@
-{
-  "client_profile": {
-    "age": 70,
-    "age_group": "60-70",
-    "gender": "male",
-    "relationship_status": "Married",
-    "occupation": "Professional",
-    "living_situation": "With partner",
-    "ethnicity": "North American",
-    "co_occurring_condition": "Depression",
-    "exhibited_behaviors": [
-      "avoidance",
-      "self-blame",
-      "aggression",
-      "withdrawal",
-      "dissociation"
-    ]
-  },
-  "therapist_profile": {
-    "age": 61,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "childhood trauma",
-    "session_topic": "divorce or relationship breakup"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e834bb4476012139e6986ba8c7aaffeda8e6542e39abf4cb6a0c10fdd9f1a79a
+size 595

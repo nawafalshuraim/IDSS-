@@ -1,26 +1,3 @@
-{
-  "client_profile": {
-    "age": 66,
-    "age_group": "60-70",
-    "gender": "female",
-    "relationship_status": "Married",
-    "occupation": "Self-employed",
-    "living_situation": "With partner",
-    "ethnicity": "Middle Eastern",
-    "co_occurring_condition": "None",
-    "exhibited_behaviors": [
-      "avoidance",
-      "hypervigilance",
-      "dissociation",
-      "self-blame"
-    ]
-  },
-  "therapist_profile": {
-    "age": 60,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "witnessing violence",
-    "session_topic": "witnessing violence"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3928d6c8378251981195adb06046c84da103adf81c9372e868906c1b72b2cb88
+size 569

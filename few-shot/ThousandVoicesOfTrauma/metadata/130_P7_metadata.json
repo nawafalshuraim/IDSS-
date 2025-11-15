@@ -1,24 +1,3 @@
-{
-  "client_profile": {
-    "age": 67,
-    "age_group": "60-70",
-    "gender": "male",
-    "relationship_status": "Married",
-    "occupation": "Self-employed",
-    "living_situation": "With partner",
-    "ethnicity": "North American",
-    "co_occurring_condition": "Anxiety",
-    "exhibited_behaviors": [
-      "compulsive behaviors",
-      "flashbacks"
-    ]
-  },
-  "therapist_profile": {
-    "age": 27,
-    "gender": "non-binary"
-  },
-  "trauma_info": {
-    "type": "witnessing violence",
-    "session_topic": "cult experiences"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:da0f052ce4d670de33dcdb57833e541f8476bea70282e3dbf728f67269138fff
+size 536

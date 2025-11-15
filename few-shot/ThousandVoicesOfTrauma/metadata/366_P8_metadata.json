@@ -1,25 +1,3 @@
-{
-  "client_profile": {
-    "age": 63,
-    "age_group": "60-70",
-    "gender": "male",
-    "relationship_status": "Divorced",
-    "occupation": "Professional",
-    "living_situation": "With family",
-    "ethnicity": "North American",
-    "co_occurring_condition": "Anxiety",
-    "exhibited_behaviors": [
-      "self-blame",
-      "substance abuse",
-      "avoidance"
-    ]
-  },
-  "therapist_profile": {
-    "age": 37,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "natural disasters",
-    "session_topic": "natural disaster experience"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9837c13bd5109962f67655fb904389289ef131e87d4e0a458510bfdd02442917
+size 552

@@ -1,27 +1,3 @@
-{
-  "client_profile": {
-    "age": 56,
-    "age_group": "51-60",
-    "gender": "non-binary",
-    "relationship_status": "Single",
-    "occupation": "Professional",
-    "living_situation": "Shared accommodation",
-    "ethnicity": "Oceania",
-    "co_occurring_condition": "Depression",
-    "exhibited_behaviors": [
-      "avoidance",
-      "hypervigilance",
-      "nightmares",
-      "self-blame",
-      "dissociation"
-    ]
-  },
-  "therapist_profile": {
-    "age": 54,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "emotional abuse",
-    "session_topic": "imprisonment"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:48e38cf248dcb80ff707c716f5446314e78ff08efd2c2f072f67f10d7ba0d693
+size 587

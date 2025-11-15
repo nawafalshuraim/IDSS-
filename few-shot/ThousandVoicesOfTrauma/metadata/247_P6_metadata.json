@@ -1,26 +1,3 @@
-{
-  "client_profile": {
-    "age": 77,
-    "age_group": "71-80",
-    "gender": "female",
-    "relationship_status": "Married",
-    "occupation": "Retired",
-    "living_situation": "With partner",
-    "ethnicity": "South Asian",
-    "co_occurring_condition": "Depression",
-    "exhibited_behaviors": [
-      "avoidance",
-      "withdrawal",
-      "self-blame",
-      "hypervigilance"
-    ]
-  },
-  "therapist_profile": {
-    "age": 33,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "bullying",
-    "session_topic": "cyber bullying"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b3fc4b5244ffaf5f78920d0708b3fcb8a285bd71488fca36382c3b7ac65cba8
+size 546

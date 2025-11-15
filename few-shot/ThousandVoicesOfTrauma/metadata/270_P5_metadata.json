@@ -1,26 +1,3 @@
-{
-  "client_profile": {
-    "age": 74,
-    "age_group": "71-80",
-    "gender": "male",
-    "relationship_status": "Married",
-    "occupation": "Retired",
-    "living_situation": "With partner",
-    "ethnicity": "African",
-    "co_occurring_condition": "None",
-    "exhibited_behaviors": [
-      "avoidance",
-      "hypervigilance",
-      "flashbacks",
-      "dissociation"
-    ]
-  },
-  "therapist_profile": {
-    "age": 27,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "sexual abuse",
-    "session_topic": "hostage situation"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:088b604f437bbc8e0a3d9b023efcfad2b4ecdd101f366e760b9312f945b4cc81
+size 543

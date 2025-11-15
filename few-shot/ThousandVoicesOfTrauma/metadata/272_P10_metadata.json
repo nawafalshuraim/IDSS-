@@ -1,24 +1,3 @@
-{
-  "client_profile": {
-    "age": 63,
-    "age_group": "60-70",
-    "gender": "female",
-    "relationship_status": "Married",
-    "occupation": "Professional",
-    "living_situation": "With partner",
-    "ethnicity": "Middle Eastern",
-    "co_occurring_condition": "Anxiety",
-    "exhibited_behaviors": [
-      "flashbacks",
-      "aggression"
-    ]
-  },
-  "therapist_profile": {
-    "age": 38,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "childhood trauma",
-    "session_topic": "cult experiences"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:225dda73559301d80a28c00fb6667b9c189c12932254467bbbc4e0eb858dd826
+size 520

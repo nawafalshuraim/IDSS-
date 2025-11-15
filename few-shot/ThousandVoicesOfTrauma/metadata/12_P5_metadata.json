@@ -1,24 +1,3 @@
-{
-  "client_profile": {
-    "age": 32,
-    "age_group": "31-40",
-    "gender": "male",
-    "relationship_status": "In a relationship",
-    "occupation": "Professional",
-    "living_situation": "Alone",
-    "ethnicity": "North American",
-    "co_occurring_condition": "Anxiety",
-    "exhibited_behaviors": [
-      "avoidance",
-      "hypervigilance"
-    ]
-  },
-  "therapist_profile": {
-    "age": 44,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "bullying",
-    "session_topic": "cyber bullying"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:01c1551bc9c3a836d20fd1aefc52f36735bc96aced8dc3d0268cee8079c540f7
+size 512

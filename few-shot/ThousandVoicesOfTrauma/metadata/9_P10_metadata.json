@@ -1,25 +1,3 @@
-{
-  "client_profile": {
-    "age": 73,
-    "age_group": "71-80",
-    "gender": "male",
-    "relationship_status": "Married",
-    "occupation": "Retired",
-    "living_situation": "With partner",
-    "ethnicity": "Oceania",
-    "co_occurring_condition": "Anxiety",
-    "exhibited_behaviors": [
-      "avoidance",
-      "dissociation",
-      "anxiety"
-    ]
-  },
-  "therapist_profile": {
-    "age": 64,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "medical trauma",
-    "session_topic": "severe illness"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:92e28eaaecf0168afbd1ba1bba85eac344032a459b72abe43d7a25c60a6dec21
+size 520

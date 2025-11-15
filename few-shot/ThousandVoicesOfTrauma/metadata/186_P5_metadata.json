@@ -1,25 +1,3 @@
-{
-  "client_profile": {
-    "age": 38,
-    "age_group": "31-40",
-    "gender": "female",
-    "relationship_status": "Married",
-    "occupation": "Professional",
-    "living_situation": "With partner",
-    "ethnicity": "Oceania",
-    "co_occurring_condition": "None",
-    "exhibited_behaviors": [
-      "avoidance",
-      "hypervigilance",
-      "self-blame"
-    ]
-  },
-  "therapist_profile": {
-    "age": 64,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "witnessing violence",
-    "session_topic": "police brutality"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:aed5c0bf5cd2d210a2ca33a92f73f6d9da8783540c2939d3e8708c7010769e98
+size 536

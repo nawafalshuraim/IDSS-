@@ -1,27 +1,3 @@
-{
-  "client_profile": {
-    "age": 40,
-    "age_group": "31-40",
-    "gender": "male",
-    "relationship_status": "Single",
-    "occupation": "Self-employed",
-    "living_situation": "Shared accommodation",
-    "ethnicity": "South Asian",
-    "co_occurring_condition": "None",
-    "exhibited_behaviors": [
-      "avoidance",
-      "hypervigilance",
-      "flashbacks",
-      "nightmares",
-      "self-blame"
-    ]
-  },
-  "therapist_profile": {
-    "age": 45,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "witnessing violence",
-    "session_topic": "home invasion"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:48666d33c35d6b0deba7d4ac77875c664bfcd296b20ee3c21088f2ced3c31f52
+size 581

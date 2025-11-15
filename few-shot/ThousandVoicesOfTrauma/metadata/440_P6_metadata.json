@@ -1,27 +1,3 @@
-{
-  "client_profile": {
-    "age": 42,
-    "age_group": "41-50",
-    "gender": "non-binary",
-    "relationship_status": "Married",
-    "occupation": "Employee",
-    "living_situation": "With family",
-    "ethnicity": "South East Asian",
-    "co_occurring_condition": "Chronic Pain",
-    "exhibited_behaviors": [
-      "avoidance",
-      "hypervigilance",
-      "self-blame",
-      "aggression",
-      "withdrawal"
-    ]
-  },
-  "therapist_profile": {
-    "age": 54,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "emotional abuse",
-    "session_topic": "workplace trauma"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4471336f6839d1f677a9e2052412df412668dd3a7dd496d556ea96a46efa995
+size 588

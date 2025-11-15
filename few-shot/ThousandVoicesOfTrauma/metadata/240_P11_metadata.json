@@ -1,25 +1,3 @@
-{
-  "client_profile": {
-    "age": 62,
-    "age_group": "60-70",
-    "gender": "male",
-    "relationship_status": "Divorced",
-    "occupation": "Professional",
-    "living_situation": "Shared accommodation",
-    "ethnicity": "South East Asian",
-    "co_occurring_condition": "None",
-    "exhibited_behaviors": [
-      "dissociation",
-      "hypervigilance",
-      "flashbacks"
-    ]
-  },
-  "therapist_profile": {
-    "age": 25,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "natural disasters",
-    "session_topic": "airplane crash"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1af087443c676d06835b1093eb85186c750a39aecb1805ac37f6e81a53a8fb9c
+size 549

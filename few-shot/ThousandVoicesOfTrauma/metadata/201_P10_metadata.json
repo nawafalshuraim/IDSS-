@@ -1,27 +1,3 @@
-{
-  "client_profile": {
-    "age": 54,
-    "age_group": "51-60",
-    "gender": "female",
-    "relationship_status": "Married",
-    "occupation": "Professional",
-    "living_situation": "With partner",
-    "ethnicity": "African",
-    "co_occurring_condition": "None",
-    "exhibited_behaviors": [
-      "nightmares",
-      "avoidance",
-      "hypervigilance",
-      "self-blame",
-      "aggression"
-    ]
-  },
-  "therapist_profile": {
-    "age": 61,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "sexual abuse",
-    "session_topic": "workplace trauma"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d470a639c25c7c212cbbcdab4a9f7bc004da2f4adcc5131544286a55559f5945
+size 567

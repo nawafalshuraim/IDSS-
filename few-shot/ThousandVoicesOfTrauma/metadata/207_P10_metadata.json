@@ -1,24 +1,3 @@
-{
-  "client_profile": {
-    "age": 76,
-    "age_group": "71-80",
-    "gender": "female",
-    "relationship_status": "Married",
-    "occupation": "Retired",
-    "living_situation": "With partner",
-    "ethnicity": "European",
-    "co_occurring_condition": "Chronic Pain",
-    "exhibited_behaviors": [
-      "nightmares",
-      "hypervigilance"
-    ]
-  },
-  "therapist_profile": {
-    "age": 46,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "natural disasters",
-    "session_topic": "natural disaster experience"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:61aa5ec51667c878306694e061f02897d589400cc228fe939215053798511344
+size 530

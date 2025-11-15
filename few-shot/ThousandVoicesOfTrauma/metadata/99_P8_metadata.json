@@ -1,26 +1,3 @@
-{
-  "client_profile": {
-    "age": 39,
-    "age_group": "31-40",
-    "gender": "male",
-    "relationship_status": "Married",
-    "occupation": "Unemployed",
-    "living_situation": "Alone",
-    "ethnicity": "Latin American",
-    "co_occurring_condition": "None",
-    "exhibited_behaviors": [
-      "hypervigilance",
-      "flashbacks",
-      "anxiety",
-      "avoidance"
-    ]
-  },
-  "therapist_profile": {
-    "age": 45,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "witnessing violence",
-    "session_topic": "police brutality"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd1c4d80198927df61ec095904853eb904e390d003b01acd33380f308e63caad
+size 547

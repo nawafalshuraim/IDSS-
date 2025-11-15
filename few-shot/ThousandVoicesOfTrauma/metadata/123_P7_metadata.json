@@ -1,26 +1,3 @@
-{
-  "client_profile": {
-    "age": 71,
-    "age_group": "71-80",
-    "gender": "male",
-    "relationship_status": "Widowed",
-    "occupation": "Part-time work",
-    "living_situation": "Alone",
-    "ethnicity": "Oceania",
-    "co_occurring_condition": "Substance Use Disorder",
-    "exhibited_behaviors": [
-      "withdrawal",
-      "substance abuse",
-      "self-blame",
-      "avoidance"
-    ]
-  },
-  "therapist_profile": {
-    "age": 65,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "emotional abuse",
-    "session_topic": "workplace trauma"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:35b33019a268bf1f099d0b6d1a08ea2a6cb67af6f621f27904e90f9f76d7d355
+size 564

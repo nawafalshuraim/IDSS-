@@ -1,27 +1,3 @@
-{
-  "client_profile": {
-    "age": 77,
-    "age_group": "70-80",
-    "gender": "male",
-    "relationship_status": "Widowed",
-    "occupation": "Retired",
-    "living_situation": "Alone",
-    "ethnicity": "African",
-    "co_occurring_condition": "Substance Use Disorder",
-    "exhibited_behaviors": [
-      "avoidance",
-      "hypervigilance",
-      "substance abuse",
-      "self-blame",
-      "withdrawal"
-    ]
-  },
-  "therapist_profile": {
-    "age": 63,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "witnessing violence",
-    "session_topic": "home invasion"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e330580ab53dd0743b7324961726d1090990b1b993627f466e24f04e1c48f4ef
+size 582

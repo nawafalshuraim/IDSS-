@@ -1,26 +1,3 @@
-{
-  "client_profile": {
-    "age": 22,
-    "age_group": "18-30",
-    "gender": "male",
-    "relationship_status": "Single",
-    "occupation": "Student",
-    "living_situation": "Alone",
-    "ethnicity": "Oceania",
-    "co_occurring_condition": "Substance Use Disorder",
-    "exhibited_behaviors": [
-      "withdrawal",
-      "aggression",
-      "substance abuse",
-      "self-blame"
-    ]
-  },
-  "therapist_profile": {
-    "age": 65,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "loss of a loved one",
-    "session_topic": "loss of a loved one"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:94e7d2278c965ce7e1a0d69d10005fde02fdab5c54bf7420e74415cb84f5e98c
+size 562

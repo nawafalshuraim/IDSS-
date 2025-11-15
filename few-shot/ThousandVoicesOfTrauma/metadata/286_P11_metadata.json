@@ -1,26 +1,3 @@
-{
-  "client_profile": {
-    "age": 39,
-    "age_group": "31-40",
-    "gender": "male",
-    "relationship_status": "Married",
-    "occupation": "Professional",
-    "living_situation": "With partner",
-    "ethnicity": "North American",
-    "co_occurring_condition": "Anxiety",
-    "exhibited_behaviors": [
-      "flashbacks",
-      "avoidance",
-      "hypervigilance",
-      "anxiety"
-    ]
-  },
-  "therapist_profile": {
-    "age": 47,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "witnessing violence",
-    "session_topic": "workplace trauma"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d98fc5a4304b19e480266ece3eb530e23296af956fda67602befcb2d6b5755b
+size 561

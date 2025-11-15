@@ -1,26 +1,3 @@
-{
-  "client_profile": {
-    "age": 22,
-    "age_group": "18-30",
-    "gender": "male",
-    "relationship_status": "Single",
-    "occupation": "Student",
-    "living_situation": "With parents",
-    "ethnicity": "European",
-    "co_occurring_condition": "Anxiety",
-    "exhibited_behaviors": [
-      "avoidance",
-      "hypervigilance",
-      "flashbacks",
-      "dissociation"
-    ]
-  },
-  "therapist_profile": {
-    "age": 25,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "sexual abuse",
-    "session_topic": "cult experiences"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:06904e53ea3613335ffd96adcb705bc420a93fd2fc4403ea80489c1a9929af4d
+size 545

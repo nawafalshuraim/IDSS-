@@ -1,27 +1,3 @@
-{
-  "client_profile": {
-    "age": 57,
-    "age_group": "51-60",
-    "gender": "male",
-    "relationship_status": "Married",
-    "occupation": "Self-employed",
-    "living_situation": "With family",
-    "ethnicity": "Oceania",
-    "co_occurring_condition": "Depression",
-    "exhibited_behaviors": [
-      "avoidance",
-      "flashbacks",
-      "nightmares",
-      "hypervigilance",
-      "dissociation"
-    ]
-  },
-  "therapist_profile": {
-    "age": 31,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "witnessing violence",
-    "session_topic": "hostage situation"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:85a511f47c3fefd3004beae352e390317fd68e47c4cb04b258174e568ce9456e
+size 581

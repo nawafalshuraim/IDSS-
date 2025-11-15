@@ -1,25 +1,3 @@
-{
-  "client_profile": {
-    "age": 65,
-    "age_group": "60-70",
-    "gender": "male",
-    "relationship_status": "Married",
-    "occupation": "Professional",
-    "living_situation": "With partner",
-    "ethnicity": "South East Asian",
-    "co_occurring_condition": "Substance Use Disorder",
-    "exhibited_behaviors": [
-      "aggression",
-      "substance abuse",
-      "dissociation"
-    ]
-  },
-  "therapist_profile": {
-    "age": 60,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "childhood trauma",
-    "session_topic": "human trafficking"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bf8998b07628ede2680d8004e0341e7036e9fd71d5bc061f79c8be6ef431929
+size 563

@@ -1,28 +1,3 @@
-{
-  "client_profile": {
-    "age": 60,
-    "age_group": "61-70",
-    "gender": "female",
-    "relationship_status": "Single",
-    "occupation": "Professional",
-    "living_situation": "Alone",
-    "ethnicity": "South East Asian",
-    "co_occurring_condition": "Depression",
-    "exhibited_behaviors": [
-      "avoidance",
-      "nightmares",
-      "withdrawal",
-      "hypervigilance",
-      "flashbacks",
-      "self-blame"
-    ]
-  },
-  "therapist_profile": {
-    "age": 42,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "combat or war experiences",
-    "session_topic": "military combat experience"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e532a58824d56ffb74243a25a7afdce0a66d50262da5fa2fe6d303f712fafda3
+size 617

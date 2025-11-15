@@ -1,27 +1,3 @@
-{
-  "client_profile": {
-    "age": 70,
-    "age_group": "60-70",
-    "gender": "female",
-    "relationship_status": "Divorced",
-    "occupation": "Professional",
-    "living_situation": "Alone",
-    "ethnicity": "North American",
-    "co_occurring_condition": "None",
-    "exhibited_behaviors": [
-      "avoidance",
-      "hypervigilance",
-      "flashbacks",
-      "nightmares",
-      "self-blame"
-    ]
-  },
-  "therapist_profile": {
-    "age": 63,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "witnessing violence",
-    "session_topic": "hostage situation"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c1eef50e9208143ea886bd0d6bb2982c0e63dc853dc6722b226a99aef95aed4
+size 578

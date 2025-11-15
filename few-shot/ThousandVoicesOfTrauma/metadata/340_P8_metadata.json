@@ -1,24 +1,3 @@
-{
-  "client_profile": {
-    "age": 40,
-    "age_group": "31-40",
-    "gender": "male",
-    "relationship_status": "In a relationship",
-    "occupation": "Self-employed",
-    "living_situation": "Alone",
-    "ethnicity": "African",
-    "co_occurring_condition": "Chronic Pain",
-    "exhibited_behaviors": [
-      "hypervigilance",
-      "dissociation"
-    ]
-  },
-  "therapist_profile": {
-    "age": 51,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "accidents",
-    "session_topic": "car accident trauma"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a45fc327f59448cd4c0f1234bf6f630d21896aca62714d26619b94c2e8d7399
+size 522

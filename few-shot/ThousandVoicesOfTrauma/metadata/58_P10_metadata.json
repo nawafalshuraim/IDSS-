@@ -1,25 +1,3 @@
-{
-  "client_profile": {
-    "age": 53,
-    "age_group": "51-60",
-    "gender": "male",
-    "relationship_status": "Divorced",
-    "occupation": "Self-employed",
-    "living_situation": "Shared accommodation",
-    "ethnicity": "South Asian",
-    "co_occurring_condition": "None",
-    "exhibited_behaviors": [
-      "avoidance",
-      "self-blame",
-      "withdrawal"
-    ]
-  },
-  "therapist_profile": {
-    "age": 57,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "loss of a loved one",
-    "session_topic": "divorce or relationship breakup"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8da55f150e0c356ca0849d314cfa7979a3c64673f79c5b829b07459898a9f7c1
+size 559

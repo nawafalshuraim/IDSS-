@@ -1,23 +1,3 @@
-{
-  "client_profile": {
-    "age": 66,
-    "age_group": "60-70",
-    "gender": "male",
-    "relationship_status": "Married",
-    "occupation": "Professional",
-    "living_situation": "With partner",
-    "ethnicity": "North American",
-    "co_occurring_condition": "Depression",
-    "exhibited_behaviors": [
-      "dissociation"
-    ]
-  },
-  "therapist_profile": {
-    "age": 57,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "physical abuse",
-    "session_topic": "cult experiences"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9deb755652f1b4d2bf7ce8c624701216f0ac7d4fc893834856b17be1a3280422
+size 501

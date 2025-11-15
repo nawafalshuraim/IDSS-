@@ -1,25 +1,3 @@
-{
-  "client_profile": {
-    "age": 63,
-    "age_group": "60-70",
-    "gender": "male",
-    "relationship_status": "Married",
-    "occupation": "Professional",
-    "living_situation": "With partner",
-    "ethnicity": "African",
-    "co_occurring_condition": "Chronic Pain",
-    "exhibited_behaviors": [
-      "avoidance",
-      "hypervigilance",
-      "self-blame"
-    ]
-  },
-  "therapist_profile": {
-    "age": 25,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "natural disasters",
-    "session_topic": "refugee experiences"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c9914dc73d5f2f0c4e50f8bf90905afcec6adae89865628493e892a06a5ea539
+size 541

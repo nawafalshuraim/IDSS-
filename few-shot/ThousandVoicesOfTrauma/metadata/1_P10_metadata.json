@@ -1,26 +1,3 @@
-{
-  "client_profile": {
-    "age": 75,
-    "age_group": "70-80",
-    "gender": "male",
-    "relationship_status": "Married",
-    "occupation": "Retired",
-    "living_situation": "With partner",
-    "ethnicity": "South East Asian",
-    "co_occurring_condition": "None",
-    "exhibited_behaviors": [
-      "avoidance",
-      "hypervigilance",
-      "flashbacks",
-      "self-blame"
-    ]
-  },
-  "therapist_profile": {
-    "age": 45,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "accidents",
-    "session_topic": "airplane crash"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e558d80eaf882a6c6651a9260b9a4dd0181357b28f7e790b954cedacbc2ceedc
+size 544

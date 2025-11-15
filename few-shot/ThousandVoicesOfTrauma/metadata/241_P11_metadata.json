@@ -1,24 +1,3 @@
-{
-  "client_profile": {
-    "age": 60,
-    "age_group": "50-60",
-    "gender": "female",
-    "relationship_status": "Widowed",
-    "occupation": "Professional",
-    "living_situation": "Alone",
-    "ethnicity": "Latin American",
-    "co_occurring_condition": "Depression",
-    "exhibited_behaviors": [
-      "substance abuse",
-      "avoidance"
-    ]
-  },
-  "therapist_profile": {
-    "age": 56,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "physical abuse",
-    "session_topic": "human trafficking"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ddf07599a5f92af8c3f032ae0c009b467a1473dc5ab8e16b6acef4253533848
+size 519

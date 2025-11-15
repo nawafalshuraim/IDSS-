@@ -1,27 +1,3 @@
-{
-  "client_profile": {
-    "age": 28,
-    "age_group": "18-30",
-    "gender": "male",
-    "relationship_status": "Single",
-    "occupation": "Student",
-    "living_situation": "With parents",
-    "ethnicity": "European",
-    "co_occurring_condition": "Anxiety",
-    "exhibited_behaviors": [
-      "dissociation",
-      "avoidance",
-      "hypervigilance",
-      "flashbacks",
-      "self-blame"
-    ]
-  },
-  "therapist_profile": {
-    "age": 58,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "physical abuse",
-    "session_topic": "animal attack"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:251831dbba1ac9d074177ab9961a1c465adbf9866e7a0303153d2cb4c8a35fb8
+size 566

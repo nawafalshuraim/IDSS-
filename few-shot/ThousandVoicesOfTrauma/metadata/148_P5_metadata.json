@@ -1,25 +1,3 @@
-{
-  "client_profile": {
-    "age": 67,
-    "age_group": "60-70",
-    "gender": "male",
-    "relationship_status": "Single",
-    "occupation": "Professional",
-    "living_situation": "Alone",
-    "ethnicity": "North American",
-    "co_occurring_condition": "None",
-    "exhibited_behaviors": [
-      "avoidance",
-      "withdrawal",
-      "self-blame"
-    ]
-  },
-  "therapist_profile": {
-    "age": 43,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "loss of a loved one",
-    "session_topic": "imprisonment"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:63f7d59c3fd04765b05bc4f1c1a789de8b6d2e2e706326e4f51f957d89c6037b
+size 525

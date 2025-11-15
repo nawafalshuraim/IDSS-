@@ -1,25 +1,3 @@
-{
-  "client_profile": {
-    "age": 51,
-    "age_group": "51-60",
-    "gender": "male",
-    "relationship_status": "Married",
-    "occupation": "Professional",
-    "living_situation": "With partner",
-    "ethnicity": "South Asian",
-    "co_occurring_condition": "Chronic Pain",
-    "exhibited_behaviors": [
-      "dissociation",
-      "self-blame",
-      "hypervigilance"
-    ]
-  },
-  "therapist_profile": {
-    "age": 61,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "childhood trauma",
-    "session_topic": "witnessing violence"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:287a1a084771e13e7aaee7459c6b9c29c734592f8b1d50221d160ac61b28c153
+size 547

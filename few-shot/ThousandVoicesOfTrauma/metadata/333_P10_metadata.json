@@ -1,26 +1,3 @@
-{
-  "client_profile": {
-    "age": 52,
-    "age_group": "51-60",
-    "gender": "male",
-    "relationship_status": "Married",
-    "occupation": "Professional",
-    "living_situation": "With family",
-    "ethnicity": "Oceania",
-    "co_occurring_condition": "None",
-    "exhibited_behaviors": [
-      "flashbacks",
-      "avoidance",
-      "dissociation",
-      "self-blame"
-    ]
-  },
-  "therapist_profile": {
-    "age": 61,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "witnessing violence",
-    "session_topic": "cult experiences"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:326afbece9463d2997a656ffc7439e1e3031593a8f0c94b1eb0eefe1c022b653
+size 551

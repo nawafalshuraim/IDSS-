@@ -1,25 +1,3 @@
-{
-  "client_profile": {
-    "age": 68,
-    "age_group": "60-70",
-    "gender": "male",
-    "relationship_status": "Married",
-    "occupation": "Professional",
-    "living_situation": "With partner",
-    "ethnicity": "Latin American",
-    "co_occurring_condition": "None",
-    "exhibited_behaviors": [
-      "avoidance",
-      "aggression",
-      "self-blame"
-    ]
-  },
-  "therapist_profile": {
-    "age": 45,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "emotional abuse",
-    "session_topic": "divorce or relationship breakup"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fe9d8699d2044ef226799c1934f2c34dfdc691ff96b0294a96927fe799f69cc
+size 546

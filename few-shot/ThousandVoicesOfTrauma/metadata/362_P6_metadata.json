@@ -1,26 +1,3 @@
-{
-  "client_profile": {
-    "age": 34,
-    "age_group": "31-40",
-    "gender": "non-binary",
-    "relationship_status": "Married",
-    "occupation": "Professional",
-    "living_situation": "With family",
-    "ethnicity": "North American",
-    "co_occurring_condition": "Anxiety",
-    "exhibited_behaviors": [
-      "hypervigilance",
-      "flashbacks",
-      "nightmares",
-      "avoidance"
-    ]
-  },
-  "therapist_profile": {
-    "age": 39,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "combat or war experiences",
-    "session_topic": "hostage situation"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5494171c99cc3225d8fcc804446301df2db40d40d4498f22717292681ba7d8a
+size 576

@@ -1,25 +1,3 @@
-{
-  "client_profile": {
-    "age": 63,
-    "age_group": "60-70",
-    "gender": "male",
-    "relationship_status": "Married",
-    "occupation": "Professional",
-    "living_situation": "With family",
-    "ethnicity": "South East Asian",
-    "co_occurring_condition": "Anxiety",
-    "exhibited_behaviors": [
-      "compulsive behaviors",
-      "withdrawal",
-      "self-blame"
-    ]
-  },
-  "therapist_profile": {
-    "age": 47,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "witnessing violence",
-    "session_topic": "racial trauma"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:961357ab645f084feb665c1baac57bcb1bff0c7a565e8f70cb2748bc5277ac1c
+size 547

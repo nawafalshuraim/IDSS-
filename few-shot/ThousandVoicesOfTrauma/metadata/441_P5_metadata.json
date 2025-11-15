@@ -1,30 +1,3 @@
-{
-  "client_profile": {
-    "age": 55,
-    "age_group": "51-60",
-    "gender": "male",
-    "relationship_status": "Married",
-    "occupation": "Self-employed",
-    "living_situation": "With family",
-    "ethnicity": "South East Asian",
-    "co_occurring_condition": "Chronic Pain",
-    "exhibited_behaviors": [
-      "flashbacks",
-      "dissociation",
-      "compulsive behaviors",
-      "hypervigilance",
-      "avoidance",
-      "nightmares",
-      "anxiety",
-      "self-blame"
-    ]
-  },
-  "therapist_profile": {
-    "age": 58,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "loss of a loved one",
-    "session_topic": "loss of a loved one"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:61477e24fc89693b683bf784bda08e974b41103e23717f45446da51364fe7b97
+size 661

@@ -1,26 +1,3 @@
-{
-  "client_profile": {
-    "age": 63,
-    "age_group": "60-70",
-    "gender": "female",
-    "relationship_status": "Single",
-    "occupation": "Professional",
-    "living_situation": "Alone",
-    "ethnicity": "Oceania",
-    "co_occurring_condition": "None",
-    "exhibited_behaviors": [
-      "hypervigilance",
-      "avoidance",
-      "self-blame",
-      "nightmares"
-    ]
-  },
-  "therapist_profile": {
-    "age": 36,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "natural disasters",
-    "session_topic": "natural disaster experience"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2609f33e75eb7d6c834c51f1eab8f2e363641dd7c023ee13396b915567813d62
+size 555

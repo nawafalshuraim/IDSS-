@@ -1,26 +1,3 @@
-{
-  "client_profile": {
-    "age": 28,
-    "age_group": "18-30",
-    "gender": "male",
-    "relationship_status": "Single",
-    "occupation": "Student",
-    "living_situation": "With parents",
-    "ethnicity": "South Asian",
-    "co_occurring_condition": "Substance Use Disorder",
-    "exhibited_behaviors": [
-      "avoidance",
-      "dissociation",
-      "hypervigilance",
-      "self-blame"
-    ]
-  },
-  "therapist_profile": {
-    "age": 26,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "witnessing violence",
-    "session_topic": "domestic violence"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:86d70e41a1ccb953799b824662eaab515d0140af33e0a46fdae2221ce17085af
+size 571

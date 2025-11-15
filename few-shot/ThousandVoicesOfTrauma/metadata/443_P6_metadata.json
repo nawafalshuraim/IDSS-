@@ -1,25 +1,3 @@
-{
-  "client_profile": {
-    "age": 67,
-    "age_group": "60-70",
-    "gender": "male",
-    "relationship_status": "Married",
-    "occupation": "Professional",
-    "living_situation": "With partner",
-    "ethnicity": "Middle Eastern",
-    "co_occurring_condition": "Depression",
-    "exhibited_behaviors": [
-      "avoidance",
-      "aggression",
-      "self-blame"
-    ]
-  },
-  "therapist_profile": {
-    "age": 43,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "emotional abuse",
-    "session_topic": "domestic violence"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d62464604a73a96c6eb208251804b1720414dec32f5216e1d8d8c2a7b7d4886
+size 540

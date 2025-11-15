@@ -1,26 +1,3 @@
-{
-  "client_profile": {
-    "age": 73,
-    "age_group": "70-80",
-    "gender": "female",
-    "relationship_status": "Married",
-    "occupation": "Retired",
-    "living_situation": "With partner",
-    "ethnicity": "African",
-    "co_occurring_condition": "Anxiety",
-    "exhibited_behaviors": [
-      "hypervigilance",
-      "nightmares",
-      "avoidance",
-      "flashbacks"
-    ]
-  },
-  "therapist_profile": {
-    "age": 55,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "witnessing violence",
-    "session_topic": "home invasion"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:246ed55c43a8e539709e76d90b53ad5de48c4491863f1c4b8cd1bb7d898740ea
+size 549

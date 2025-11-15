@@ -1,24 +1,3 @@
-{
-  "client_profile": {
-    "age": 71,
-    "age_group": "71-80",
-    "gender": "male",
-    "relationship_status": "Single",
-    "occupation": "Retired",
-    "living_situation": "Shared accommodation",
-    "ethnicity": "South Asian",
-    "co_occurring_condition": "Substance Use Disorder",
-    "exhibited_behaviors": [
-      "withdrawal",
-      "substance abuse"
-    ]
-  },
-  "therapist_profile": {
-    "age": 65,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "medical trauma",
-    "session_topic": "severe illness"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d351593c58cea02c0622e1a193b187d747dd779f2f4a70cf3ab0ecdf9ea3167
+size 531

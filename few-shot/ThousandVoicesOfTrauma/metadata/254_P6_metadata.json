@@ -1,24 +1,3 @@
-{
-  "client_profile": {
-    "age": 66,
-    "age_group": "60-70",
-    "gender": "female",
-    "relationship_status": "Married",
-    "occupation": "Self-employed",
-    "living_situation": "With partner",
-    "ethnicity": "North American",
-    "co_occurring_condition": "None",
-    "exhibited_behaviors": [
-      "hypervigilance",
-      "dissociation"
-    ]
-  },
-  "therapist_profile": {
-    "age": 32,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "bullying",
-    "session_topic": "workplace trauma"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f644f565c3b8b72365ef3ccb35f0e6a8da83e9962fa6174c2f54bc86df0a1b4f
+size 514

@@ -1,25 +1,3 @@
-{
-  "client_profile": {
-    "age": 74,
-    "age_group": "71-80",
-    "gender": "female",
-    "relationship_status": "Divorced",
-    "occupation": "Part-time work",
-    "living_situation": "Alone",
-    "ethnicity": "South East Asian",
-    "co_occurring_condition": "Anxiety",
-    "exhibited_behaviors": [
-      "avoidance",
-      "nightmares",
-      "hypervigilance"
-    ]
-  },
-  "therapist_profile": {
-    "age": 65,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "accidents",
-    "session_topic": "animal attack"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a66e62e5d84b4c4fecd57976e5115140241e4777e3a5c9953fbdb0213959b300
+size 531

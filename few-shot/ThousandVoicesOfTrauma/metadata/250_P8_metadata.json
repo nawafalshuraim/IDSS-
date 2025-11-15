@@ -1,25 +1,3 @@
-{
-  "client_profile": {
-    "age": 29,
-    "age_group": "18-30",
-    "gender": "female",
-    "relationship_status": "Single",
-    "occupation": "Student",
-    "living_situation": "Shared accommodation",
-    "ethnicity": "European",
-    "co_occurring_condition": "None",
-    "exhibited_behaviors": [
-      "avoidance",
-      "hypervigilance",
-      "withdrawal"
-    ]
-  },
-  "therapist_profile": {
-    "age": 35,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "medical trauma",
-    "session_topic": "severe illness"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1b37677765d2c77fb85fad3180eab21c2f72407f0c965c3074511d68ae0170c
+size 530

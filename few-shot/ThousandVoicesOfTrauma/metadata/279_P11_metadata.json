@@ -1,25 +1,3 @@
-{
-  "client_profile": {
-    "age": 42,
-    "age_group": "41-50",
-    "gender": "male",
-    "relationship_status": "Married",
-    "occupation": "Professional",
-    "living_situation": "With family",
-    "ethnicity": "Latin American",
-    "co_occurring_condition": "Chronic Pain",
-    "exhibited_behaviors": [
-      "hypervigilance",
-      "self-blame",
-      "avoidance"
-    ]
-  },
-  "therapist_profile": {
-    "age": 36,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "accidents",
-    "session_topic": "car accident trauma"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e62566378ba430834f9b18a49300426bdffb87a1142fc8e57a1dfb1f7685ff43
+size 541

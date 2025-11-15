@@ -1,27 +1,3 @@
-{
-  "client_profile": {
-    "age": 68,
-    "age_group": "60-70",
-    "gender": "non-binary",
-    "relationship_status": "Married",
-    "occupation": "Professional",
-    "living_situation": "Married",
-    "ethnicity": "European",
-    "co_occurring_condition": "Substance Use Disorder",
-    "exhibited_behaviors": [
-      "avoidance",
-      "hypervigilance",
-      "flashbacks",
-      "self-blame",
-      "dissociation"
-    ]
-  },
-  "therapist_profile": {
-    "age": 44,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "witnessing violence",
-    "session_topic": "military combat experience"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdbb9230c15df6c86af9b1264f930be94f822d8b27120d3bffc555d7e1d9b690
+size 606

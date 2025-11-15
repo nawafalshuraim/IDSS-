@@ -1,26 +1,3 @@
-{
-  "client_profile": {
-    "age": 56,
-    "age_group": "51-60",
-    "gender": "non-binary",
-    "relationship_status": "Married",
-    "occupation": "Professional",
-    "living_situation": "With family",
-    "ethnicity": "European",
-    "co_occurring_condition": "Anxiety",
-    "exhibited_behaviors": [
-      "avoidance",
-      "hypervigilance",
-      "flashbacks",
-      "dissociation"
-    ]
-  },
-  "therapist_profile": {
-    "age": 46,
-    "gender": "male"
-  },
-  "trauma_info": {
-    "type": "emotional abuse",
-    "session_topic": "witnessing violence"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e71ef300997bce1cfdd45a234040b59ca9da1a56e77e496ff7bbe832aae4f521
+size 562

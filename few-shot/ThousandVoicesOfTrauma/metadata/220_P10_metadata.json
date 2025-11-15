@@ -1,26 +1,3 @@
-{
-  "client_profile": {
-    "age": 25,
-    "age_group": "18-30",
-    "gender": "female",
-    "relationship_status": "In a relationship",
-    "occupation": "Entry-level job",
-    "living_situation": "Shared accommodation",
-    "ethnicity": "African",
-    "co_occurring_condition": "Anxiety",
-    "exhibited_behaviors": [
-      "nightmares",
-      "avoidance",
-      "dissociation",
-      "hypervigilance"
-    ]
-  },
-  "therapist_profile": {
-    "age": 33,
-    "gender": "female"
-  },
-  "trauma_info": {
-    "type": "sexual abuse",
-    "session_topic": "childhood trauma"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e4a191d76ff1ba4accb3ab9d65ca679b65af4ac10ccbc43f29a1696aa6d389e
+size 575
